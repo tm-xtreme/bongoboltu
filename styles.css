@@ -93,6 +93,7 @@ body {
     top: 10px;
     left: 10px;
     margin: 0;
+    margin-top: 5px;
     background: rgba(0, 0, 0, 0.7);
     padding: 0 5px 5px;
     border-radius: 5px;
@@ -105,7 +106,8 @@ body {
 #visitor-counter img {
     height: 8px;
     width: 24px;
-}#message {
+}
+#message {
     position: absolute;
     bottom: 120px;
     left: 50%;
